@@ -280,18 +280,18 @@
   "node_runs": [
     {
       "node": "fetch_text_content_from_url",
-      "flow_run_id": "b4ebb32d-dc5e-4e8d-af13-13b7daf056c9",
-      "run_id": "b4ebb32d-dc5e-4e8d-af13-13b7daf056c9_fetch_text_content_from_url_2a0e19bd-d330-40b9-8228-69b479ee9bff",
+      "flow_run_id": "66511657-cb1d-4de4-8c2b-00ff14c1affb",
+      "run_id": "66511657-cb1d-4de4-8c2b-00ff14c1affb_fetch_text_content_from_url_025db539-595a-4378-8dc6-1afe50140653",
       "status": "Completed",
       "inputs": {
         "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
       },
-      "output": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onSep 19, 2023#8 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.6M reviews54321Kaylamore",
+      "output": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onOct 3, 2023#7 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.7M reviews54321J Dmore_ve",
       "metrics": null,
       "error": null,
-      "parent_run_id": "b4ebb32d-dc5e-4e8d-af13-13b7daf056c9",
-      "start_time": "2023-09-20T14:23:26.281605Z",
-      "end_time": "2023-09-20T14:23:28.734613Z",
+      "parent_run_id": "66511657-cb1d-4de4-8c2b-00ff14c1affb",
+      "start_time": "2023-10-04T14:24:59.906783Z",
+      "end_time": "2023-10-04T14:25:00.847767Z",
       "index": null,
       "api_calls": [
         {
@@ -300,9 +300,9 @@
           "inputs": {
             "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
           },
-          "output": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onSep 19, 2023#8 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.6M reviews54321Kaylamore",
-          "start_time": 1695234206.281605,
-          "end_time": 1695234208.719707,
+          "output": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onOct 3, 2023#7 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.7M reviews54321J Dmore_ve",
+          "start_time": 1696443899.906783,
+          "end_time": 1696443900.84376,
           "error": null,
           "children": null,
           "node_name": "fetch_text_content_from_url"
@@ -315,28 +315,28 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 2.453008
+        "duration": 0.940984
       },
-      "result": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onSep 19, 2023#8 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.6M reviews54321Kaylamore"
+      "result": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onOct 3, 2023#7 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.7M reviews54321J Dmore_ve"
     },
     {
       "node": "summarize_text_content",
-      "flow_run_id": "35f76b5c-03bf-4953-9025-65dba580a52a",
-      "run_id": "35f76b5c-03bf-4953-9025-65dba580a52a_summarize_text_content_adb34536-97c2-4291-bd2e-4e7f99664840",
+      "flow_run_id": "3fd3660e-994b-4c7a-b66f-1da2e3eab3c4",
+      "run_id": "3fd3660e-994b-4c7a-b66f-1da2e3eab3c4_summarize_text_content_c76c821c-37e7-4d95-8c78-4bde224be4b0",
       "status": "Completed",
       "inputs": {
         "prompt": "system:\nPlease summarize the following text in one paragraph. 100 words.\nDo not add any information that is not in the text.\n\nuser:\nText: {{text}}\nSummary: ",
         "deployment_name": "gpt-35-turbo",
         "max_tokens": 128,
         "temperature": 0.2,
-        "text": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onSep 19, 2023#8 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.6M reviews54321Kaylamore"
+        "text": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onOct 3, 2023#7 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.7M reviews54321J Dmore_ve"
       },
-      "output": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos up to 3 hours long, and write and read long-form posts. The app prioritizes data safety and allows users to request data deletion. It has a rating of 3.9 stars with over 21.4 million",
+      "output": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos, write and read long-form posts, and connect with customers for business growth. The app collects various types of data, but data privacy and security practices may vary. Ratings and reviews are verified.",
       "metrics": null,
       "error": null,
-      "parent_run_id": "35f76b5c-03bf-4953-9025-65dba580a52a",
-      "start_time": "2023-09-20T14:23:44.092135Z",
-      "end_time": "2023-09-20T14:23:50.440418Z",
+      "parent_run_id": "3fd3660e-994b-4c7a-b66f-1da2e3eab3c4",
+      "start_time": "2023-10-04T14:25:14.623268Z",
+      "end_time": "2023-10-04T14:25:19.291443Z",
       "index": null,
       "api_calls": [
         {
@@ -347,11 +347,11 @@
             "deployment_name": "gpt-35-turbo",
             "max_tokens": 128,
             "temperature": 0.2,
-            "text": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onSep 19, 2023#8 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.6M reviews54321Kaylamore"
+            "text": "X - Apps on Google Playgoogle_logo PlayGamesAppsMovies & TVBooksKidsnonesearchhelp_outline Sign in with Googleplay_appsLibrary & devicespaymentPayments & subscriptionsreviewsMy Play activityredeemOffersPlay PasssettingsSettingsPrivacy Policy • Terms of ServiceGamesAppsMovies & TVBooksKidsXX Corp.Contains adsIn-app purchases3.9star21.4M reviews1B+DownloadsMature 17+infoInstallShareAdd to wishlistAbout this apparrow_forwardThe X app is the trusted global digital town square for everyone.With X, you can:- Post content for the world to see and join public conversations- Stay up to date on breaking news and follow your interests- Stay better informed with extra context from Community Notes- Go live with Spaces for audio or stream live video- Communicate privately with Direct Messages- Subscribe to X Premium to expand your reach, get a blue checkmark, and more- Earn a living creating exclusive content for your paid subscribers and share in the ad revenue generated in replies to your posts- Create and join Communities around topics and interests, from sports to music to technology- Upload and watch videos up to 3 hours in length- Write and read long form posts like essays and blogs- Connect directly with your customers to help your business growUpdated onOct 3, 2023#7 top free socialSocialData safetyarrow_forwardSafety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.No data shared with third partiesLearn more about how developers declare sharingThis app may collect these data typesLocation, Personal info and 9 othersData is encrypted in transitYou can request that data be deletedSee detailsRatings and reviewsRatings and reviews are verifiedinfo_outlinearrow_forwardRatings and reviews are verifiedinfo_outlinephone_androidPhonetablet_androidTabletwatchWatchlaptopChromebooktvTV3.920.7M reviews54321J Dmore_ve"
           },
-          "output": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos up to 3 hours long, and write and read long-form posts. The app prioritizes data safety and allows users to request data deletion. It has a rating of 3.9 stars with over 21.4 million",
-          "start_time": 1695234224.092135,
-          "end_time": 1695234230.408489,
+          "output": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos, write and read long-form posts, and connect with customers for business growth. The app collects various types of data, but data privacy and security practices may vary. Ratings and reviews are verified.",
+          "start_time": 1696443914.623448,
+          "end_time": 1696443919.271536,
           "error": null,
           "children": null,
           "node_name": "summarize_text_content"
@@ -364,14 +364,14 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 6.348283
+        "duration": 4.668175
       },
-      "result": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos up to 3 hours long, and write and read long-form posts. The app prioritizes data safety and allows users to request data deletion. It has a rating of 3.9 stars with over 21.4 million"
+      "result": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos, write and read long-form posts, and connect with customers for business growth. The app collects various types of data, but data privacy and security practices may vary. Ratings and reviews are verified."
     },
     {
       "node": "prepare_examples",
-      "flow_run_id": "464e813f-f365-4c7a-9da6-c4d0a64e53b6",
-      "run_id": "464e813f-f365-4c7a-9da6-c4d0a64e53b6_prepare_examples_375d4f63-3132-4d24-a89d-c71044e9eb38",
+      "flow_run_id": "3aa1b2db-f36a-4b98-a05b-9ac448fd4bd2",
+      "run_id": "3aa1b2db-f36a-4b98-a05b-9ac448fd4bd2_prepare_examples_83a18a87-0afa-49c8-bb69-6bcaa343ba6e",
       "status": "Completed",
       "inputs": {},
       "output": [
@@ -402,9 +402,9 @@
       ],
       "metrics": null,
       "error": null,
-      "parent_run_id": "464e813f-f365-4c7a-9da6-c4d0a64e53b6",
-      "start_time": "2023-09-20T14:24:02.375732Z",
-      "end_time": "2023-09-20T14:24:02.446546Z",
+      "parent_run_id": "3aa1b2db-f36a-4b98-a05b-9ac448fd4bd2",
+      "start_time": "2023-10-04T14:25:30.603613Z",
+      "end_time": "2023-10-04T14:25:30.651434Z",
       "index": null,
       "api_calls": [
         {
@@ -437,8 +437,8 @@
               "evidence": "None"
             }
           ],
-          "start_time": 1695234242.375732,
-          "end_time": 1695234242.404745,
+          "start_time": 1696443930.603613,
+          "end_time": 1696443930.63243,
           "error": null,
           "children": null,
           "node_name": "prepare_examples"
@@ -451,7 +451,7 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 0.070814
+        "duration": 0.047821
       },
       "result": [
         {
@@ -482,8 +482,8 @@
     },
     {
       "node": "classify_with_llm",
-      "flow_run_id": "da59d8ae-8b32-4b42-9d81-8a80f9b82521",
-      "run_id": "da59d8ae-8b32-4b42-9d81-8a80f9b82521_classify_with_llm_4c990632-449f-4c5e-b6aa-4d113b9d4959",
+      "flow_run_id": "440838e4-35de-4aa0-a88b-dda7ac1f564d",
+      "run_id": "440838e4-35de-4aa0-a88b-dda7ac1f564d_classify_with_llm_b2432d7e-3687-4f77-b2f6-0c2246864088",
       "status": "Completed",
       "inputs": {
         "prompt": "system:\nYour task is to classify a given url into one of the following categories:\nMovie, App, Academic, Channel, Profile, PDF or None based on the text content information.\nThe classification will be based on the url, the webpage text content summary, or both.\n\nuser:\nThe selection range of the value of \"category\" must be within \"Movie\", \"App\", \"Academic\", \"Channel\", \"Profile\", \"PDF\" and \"None\".\nThe selection range of the value of \"evidence\" must be within \"Url\", \"Text content\", and \"Both\".\nHere are a few examples:\n{% for ex in examples %}\nURL: {{ex.url}}\nText content: {{ex.text_content}}\nOUTPUT:\n{\"category\": \"{{ex.category}}\", \"evidence\": \"{{ex.evidence}}\"}\n\n{% endfor %}\n\nFor a given URL and text content, classify the url to complete the category and indicate evidence:\nURL: {{url}}\nText content: {{text_content}}.\nOUTPUT:",
@@ -516,15 +516,15 @@
         ],
         "max_tokens": 128,
         "temperature": 0.2,
-        "text_content": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos up to 3 hours long, and write and read long-form posts. The app prioritizes data safety and allows users to request data deletion. It has a rating of 3.9 stars with over 21.4 million",
+        "text_content": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos, write and read long-form posts, and connect with customers for business growth. The app collects various types of data, but data privacy and security practices may vary. Ratings and reviews are verified.",
         "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
       },
       "output": "{\"category\": \"App\", \"evidence\": \"Both\"}",
       "metrics": null,
       "error": null,
-      "parent_run_id": "da59d8ae-8b32-4b42-9d81-8a80f9b82521",
-      "start_time": "2023-09-20T14:24:14.752666Z",
-      "end_time": "2023-09-20T14:24:17.133030Z",
+      "parent_run_id": "440838e4-35de-4aa0-a88b-dda7ac1f564d",
+      "start_time": "2023-10-04T14:25:42.423274Z",
+      "end_time": "2023-10-04T14:25:43.886799Z",
       "index": null,
       "api_calls": [
         {
@@ -561,12 +561,12 @@
             ],
             "max_tokens": 128,
             "temperature": 0.2,
-            "text_content": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos up to 3 hours long, and write and read long-form posts. The app prioritizes data safety and allows users to request data deletion. It has a rating of 3.9 stars with over 21.4 million",
+            "text_content": "The X app is a global digital platform where users can post content, join public conversations, stay updated on breaking news, and follow their interests. It offers features such as Community Notes for extra context, Spaces for live audio or video streaming, Direct Messages for private communication, and the option to subscribe to X Premium for expanded reach and exclusive content creation. Users can also create and join Communities, upload and watch videos, write and read long-form posts, and connect with customers for business growth. The app collects various types of data, but data privacy and security practices may vary. Ratings and reviews are verified.",
             "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
           },
           "output": "{\"category\": \"App\", \"evidence\": \"Both\"}",
-          "start_time": 1695234254.752666,
-          "end_time": 1695234257.053028,
+          "start_time": 1696443942.42427,
+          "end_time": 1696443943.849114,
           "error": null,
           "children": null,
           "node_name": "classify_with_llm"
@@ -579,14 +579,14 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 2.380364
+        "duration": 1.463525
       },
       "result": "{\"category\": \"App\", \"evidence\": \"Both\"}"
     },
     {
       "node": "convert_to_dict",
-      "flow_run_id": "b7822392-51c4-4a1f-881d-84f838db9894",
-      "run_id": "b7822392-51c4-4a1f-881d-84f838db9894_convert_to_dict_01d65b20-2a9f-4450-a39d-2f8eb587d07c",
+      "flow_run_id": "b9fa2829-780e-400d-ac9c-e4b4553131d2",
+      "run_id": "b9fa2829-780e-400d-ac9c-e4b4553131d2_convert_to_dict_d776989d-d568-4a0f-a55d-8d8141364a70",
       "status": "Completed",
       "inputs": {
         "input_str": "{\"category\": \"App\", \"evidence\": \"Both\"}"
@@ -597,9 +597,9 @@
       },
       "metrics": null,
       "error": null,
-      "parent_run_id": "b7822392-51c4-4a1f-881d-84f838db9894",
-      "start_time": "2023-09-20T14:24:28.850659Z",
-      "end_time": "2023-09-20T14:24:28.874034Z",
+      "parent_run_id": "b9fa2829-780e-400d-ac9c-e4b4553131d2",
+      "start_time": "2023-10-04T14:26:08.452158Z",
+      "end_time": "2023-10-04T14:26:08.462167Z",
       "index": null,
       "api_calls": [
         {
@@ -612,8 +612,8 @@
             "category": "App",
             "evidence": "Both"
           },
-          "start_time": 1695234268.850659,
-          "end_time": 1695234268.867521,
+          "start_time": 1696443968.452158,
+          "end_time": 1696443968.456174,
           "error": null,
           "children": null,
           "node_name": "convert_to_dict"
@@ -626,7 +626,7 @@
         "stderr": ""
       },
       "system_metrics": {
-        "duration": 0.023375
+        "duration": 0.010009
       },
       "result": {
         "category": "App",
