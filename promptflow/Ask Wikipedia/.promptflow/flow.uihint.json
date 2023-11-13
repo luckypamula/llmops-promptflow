@@ -1,0 +1,24 @@
+{
+  "nodes": {
+    "get_wiki_url": {
+      "variant_0": {
+        "inputs": {}
+      }
+    },
+    "search_result_from_url": {
+      "variant_0": {
+        "inputs": {}
+      }
+    },
+    "process_search_result": {
+      "variant_0": {
+        "inputs": {}
+      }
+    },
+    "augmented_qna": {
+      "variant_0": {
+        "inputs": {}
+      }
+    }
+  }
+}
