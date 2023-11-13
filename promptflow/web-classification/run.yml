@@ -3,7 +3,11 @@ flow: .
 data: data.jsonl
 
 # define cloud resource
+<<<<<<< HEAD
 runtime: pf-runtime
+=======
+runtime: automatic
+>>>>>>> e87bec55c8ba3468e5d20668b712117b2ba17f7b
 
 connections:
   classify_with_llm:
